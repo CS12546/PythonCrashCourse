@@ -6,4 +6,10 @@ Proyecto para practicas del Python Crash Course de Softserve
 
 # Se almacenaran tareas y ejercicios.
 
-#Se agregan lineas para practica de Git Fernanda
+
+#Se agregan lineas para practica de Git Fernanda Garcia
+
+#Cristopher Andrés Sáez Araneda
+>>>>>>> 7e3cc295b1f9ef7e7667a4fd36fb8ca2ddbf7798
+
+
